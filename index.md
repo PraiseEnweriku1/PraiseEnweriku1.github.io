@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/praise-enweriku-b7976a225/
-image: /assets/images/me.jpg
+image: assets/images/7FC60756-707D-4CEB-A84C-CFBBB2EFEB23_1_105_c.jpeg
 ---
