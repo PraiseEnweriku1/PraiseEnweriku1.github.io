@@ -27,8 +27,8 @@ about:
       description: I recently started playing the soccer video game "FIFA". 
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
+    - image: assets/images/Drumming.jpeg
+      caption: Playing Drums at a concert!
     - image: /assets/images/me-basketball.png
       caption: Hooping and dropping people off at the park 🏀
     - image: /assets/images/me.jpg
