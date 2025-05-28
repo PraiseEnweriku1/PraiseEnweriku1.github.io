@@ -11,20 +11,20 @@ about:
   bio: |
     I’m currently a Senior studying Cloud Computing at Morgan State University in Baltimore, Maryland. I expect to graduate in 2025.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My work explores smart water contamination detection using AI model 
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on research, I enjoy playing drums, and the piano. I also love to go to the gym because I can just put on my headphones and be in my own head space for about 2 hrs which is therapeutic for me!
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
+    - icon: 🥁
+      title: Playing Drums
+      description: I’ve been playing drums since middle school, I'm self taught and alo play by ear.
+    - icon: 💪🏾
+      title: Gym
+      description: I developed a passion for working out in my freshman year of college when i struggled with body dysmorphia. But it later soon developed into love for the art.
     - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+      title: Gaming
+      description: I recently started playing the soccer video game "FIFA". 
 
   gallery:
     - image: /assets/images/me-guitar.png
