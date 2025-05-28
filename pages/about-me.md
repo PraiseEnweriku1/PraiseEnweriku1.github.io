@@ -6,10 +6,10 @@ permalink: /about-me.html
 about:
   name: Praise Enweriku
   role: Senior, Cloud Computing Major at Morgan State University
-  image: /assets/images/me.jpg
+  image: assets/images/about me pic.png
   linkedin: https://www.linkedin.com/in/taquavian-johnson/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a Senior studying Cloud Computing at Morgan State University in Baltimore, Maryland. I expect to graduate in 2025.
 
     My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
 
