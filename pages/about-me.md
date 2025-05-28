@@ -31,8 +31,8 @@ about:
       caption: Playing Drums at a concert!
     - image: /assets/images/me-basketball.png
       caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
+    - image: assets/images/smiling from distance.jpeg
+      caption: In a garden 🪴 
     - image: /assets/images/me-pi.png
       caption: Working on a personal project w/ the Raspberry PI
 ---
