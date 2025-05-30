@@ -14,13 +14,7 @@ approach: |
 levels and an Arduino microcontroller for data collection and transmission. The circuit setup
 consists of water quality sensors connected to the Arduino via analog pins, with resistors and
 capacitors stabilizing signals. A breadboard and jumper wires will facilitate connections, while
-a power source (battery) will ensure stable operation.
-Software tools such as Python and Google Colab will support data analysis and AI model
-training. AI frameworks like TensorFlow and Scikit-learn enable machine learning applications
-wil be used for for identifying contamination patterns. For data acquisition, Google Sheets will
-facilitate real-time sensor data collection, while AWS cloud provides efficient storage for large
-datasets. Deployment and visualization tools like AWS Sagemaker will allow web-based AI
-model interaction.
+a power source (battery) will ensure stable operation. Software tools such as Python and Google Colab will support data analysis and AI modeltraining. AI frameworks like TensorFlow and Scikit-learn enable machine learning applications wil be used for for identifying contamination patterns. For data acquisition, Google Sheets will facilitate real-time sensor data collection, while AWS cloud provides efficient storage for large datasets. Deployment and visualization tools like AWS Sagemaker will allow web-based AI model interaction.
 
 
 
