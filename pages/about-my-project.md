@@ -22,10 +22,10 @@ outcome: |
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Olorunfunmi Shobowale
+  linkedin: https://www.linkedin.com/in/olorunfunmi-shobowale-ba352ba7/
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Steve Efe
+  linkedin: https://www.linkedin.com/in/drsteveefe/
 ---
