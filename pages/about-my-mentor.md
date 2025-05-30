@@ -6,21 +6,18 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Olorunfunmi Shobowale
   title: Masters Student, Olorunfunmi Shobowale
-  image: 
+  image: assets/images/Grad_ment.jpeg
   website: https://www.linkedin.com/in/olorunfunmi-shobowale-ba352ba7/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Computer Scientist||AI Researcher|| Avid Writer|| Mental Health Advocate.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  name: Dr. Steve Efe
+  title: Associate Professor, Morgan State University
+  image: 
+  website: https://www.linkedin.com/in/drsteveefe/
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Driven by a passion for leveraging cutting-edge technologies to solve real-world engineering challenges, He's a civil engineering professor and AI-certified scientist with over 15 years of experience in research, teaching, and infrastructure innovation. He's expertise spans smart infrastructure design, transportation systems, and sustainable urban development, with a focus on applying AI, machine learning, and advanced materials to enhance the resilience and longevity of infrastructure systems.
+
 
 ---
