@@ -14,7 +14,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Steve Efe
   title: Associate Professor, Morgan State University
-  image: 
+  image: assets/images/Faculty Mentor.jpeg
   website: https://www.linkedin.com/in/drsteveefe/
   bio: |
     Driven by a passion for leveraging cutting-edge technologies to solve real-world engineering challenges, He's a civil engineering professor and AI-certified scientist with over 15 years of experience in research, teaching, and infrastructure innovation. He's expertise spans smart infrastructure design, transportation systems, and sustainable urban development, with a focus on applying AI, machine learning, and advanced materials to enhance the resilience and longevity of infrastructure systems.
