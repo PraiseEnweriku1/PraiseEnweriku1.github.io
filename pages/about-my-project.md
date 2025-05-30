@@ -10,7 +10,11 @@ problem: |
   The project focuses on addressing the critical issues of drinking water safely by developing an AI-driven system to predict contaminnation risks from lead, heavy metals, and microbial pollutants. The project aims to analyze public health reports for early detection of waterborne diseases. The ultimate goal is to empower water authorities with a proactive tool for mitigating contaminants and ensuring safer water access. Students will gain hands-on experience in AI/ML techniques, Python coding, and data analysis while contributing to a meaningful public health solution.
 
 approach: |
-
+  This project requires hardware tools like water quality sensors for measuring contamination
+levels and an Arduino microcontroller for data collection and transmission. The circuit setup
+consists of water quality sensors connected to the Arduino via analog pins, with resistors and
+capacitors stabilizing signals. A breadboard and jumper wires will facilitate connections, while
+a power source (battery) will ensure stable operation.
 
 
 
