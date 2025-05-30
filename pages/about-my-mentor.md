@@ -5,7 +5,7 @@ permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Olorunfunmi Shobowale
-  title: Masters Student, Olorunfunmi Shobowale
+  title: Masters Student, Morgan State University
   image: assets/images/Grad_ment.jpeg
   website: https://www.linkedin.com/in/olorunfunmi-shobowale-ba352ba7/
   bio: |
