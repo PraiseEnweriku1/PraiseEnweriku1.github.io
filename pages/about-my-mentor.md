@@ -9,8 +9,7 @@ graduate_mentor:
   image: assets/images/Grad_ment.jpeg
   website: https://www.linkedin.com/in/olorunfunmi-shobowale-ba352ba7/
   bio: |
-    Computer Scientist||AI Researcher|| Avid Writer|| Mental Health Advocate.
-
+    He's passion for words and storytelling has allowes him to create compelling narratives that engage and captivate readers. He has worked on diverse range of projects, including short stories, articles, and marketing campaigns. Each endeavor has challenged him to push boundaries and produce high-quality content that meets and exceeds the expectations of my clients.
 faculty_mentor:
   name: Dr. Steve Efe
   title: Associate Professor, Morgan State University
