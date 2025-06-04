@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Praise Enweriku
   role: Senior, Cloud Computing Major at Morgan State University
-  image: assets/images/about me pic.jpeg
+  image: assets/images/about.jpg
   linkedin: https://www.linkedin.com/in/praise-enweriku-b7976a225/
   bio: |
     I’m currently a Senior studying Cloud Computing at Morgan State University in Baltimore, Maryland. I expect to graduate in 2025.
